@@ -1,0 +1,48 @@
+body{
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 0;
+    background-color: #131313;
+}
+
+h1{
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    color: white;
+}
+
+h2{
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    /* line-height: 10px; */
+    background: #ccc;
+    margin: 0;
+    padding: 0;
+}
+
+h3{
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    background-color:aquamarine ;
+    margin: 0;
+    padding: 0;
+}
+
+p{
+    font-family: 'Poppins', sans-serif;
+    background-color: white;
+    margin: 0;
+    padding: 10px;
+}
+
+.blog-container{
+    width: 100%;
+}
+
+.section{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin-bottom: 20px;
+}
